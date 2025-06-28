@@ -11,7 +11,8 @@ The platform will simulate real interview scenarios, ask technical and HR questi
 
 - **Frontend**: React.js  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
+- **Database**: MongoDB
+- 
 - **AI Integration**: OpenAI API *(Planned)*
 
 ## 📁 Project Structure
